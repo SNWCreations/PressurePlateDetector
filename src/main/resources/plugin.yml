@@ -1,0 +1,5 @@
+name: PressurePlateDetector
+version: '${version}'
+main: snw.ppd.PressurePlateDetector
+api-version: '1.20'
+authors: [SNWCreations]
